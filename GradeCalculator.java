@@ -9,6 +9,8 @@ public class GradeCalculator {
             System.out.println("Grade: C");
         } else if (score >= 60) {
             System.out.println("Grade: D");
+        } else {
+            System.out.println("Grade: F");
         }
     }
 }
