@@ -9,7 +9,7 @@ public class RunApp {
 
     private void parseOperators(int num1) {
         Scanner scanner = new Scanner(System.in);
-
+        
         while (true) {
             // Get the operator (+, -, or *)
             System.out.print("Enter the operator (+, -, *): ");
