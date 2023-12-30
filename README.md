@@ -18,16 +18,9 @@ This repository contains the projects, assignments, and code snippets developed 
 - Networking and multi-threading in Java
 - JavaFX for modern UI applications
 
-## Repository Structure
-
-- **/assignments**: This directory contains all the assignments given during the semester.
-- **/projects**: Here, you'll find the larger projects that were undertaken as part of the course.
-- **/code-snippets**: A collection of useful and illustrative Java code snippets.
-- **/resources**: Any additional resources, documentation, or materials related to the course.
-
 ## How to Use
 
-Feel free to explore the different directories to see the progression of my learning and development throughout the semester. If you have any questions or suggestions, don't hesitate to reach out!
+Feel free to explore the different directories to see the progression of my learning and development throughout the semester. Make sure to also check the master branch, that is where most of my work is. If you have any questions or suggestions, don't hesitate to reach out!
 
 ## Author
 
